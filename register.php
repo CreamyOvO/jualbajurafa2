@@ -37,6 +37,7 @@ if ($_SERVER["REQUEST_METHOD"] == 'POST') {
 </form>
 
 <a href="index.php">Sudah punya akun? Login</a>
+<button></button>
 
 </body>
 </html>
